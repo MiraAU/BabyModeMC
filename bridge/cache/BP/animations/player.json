@@ -1,0 +1,61 @@
+{
+	"file_path": "C:\\Users\\jesse\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Nightmare Difficulty\\animations\\player.json",
+	"file_type": "animation",
+	"format_version": 1,
+	"file_uuid": "32671743_39f3_4efe_8bf1_1a8cf3df591e",
+	"file_version": 35,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.8.0",
+				"key": "format_version"
+			},
+			{
+				"key": "animations",
+				"children": [
+					{
+						"open": {
+							"animation.using_tools": {
+								"loop": true,
+								"animation_length": 0.5,
+								"timeline": {
+									"0.25": [
+										"function breaktool"
+									]
+								}
+							}
+						},
+						"key": "animation.using_tools",
+						"children": [
+							{
+								"data": "true",
+								"key": "loop"
+							},
+							{
+								"data": "0.5",
+								"key": "animation_length"
+							},
+							{
+								"key": "timeline",
+								"children": [
+									{
+										"open": {
+											"0.25": [
+												"function breaktool"
+											]
+										},
+										"key": "0.25",
+										"is_minified": true,
+										"children": [
+											"function breaktool"
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

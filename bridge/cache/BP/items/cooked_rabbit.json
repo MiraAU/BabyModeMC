@@ -1,0 +1,135 @@
+{
+	"file_path": "C:\\Users\\jesse\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\nightmare\\items\\cooked_rabbit.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "db9de3b6_9058_4ece_aaac_72148b311919",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.10",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": 1.1,
+					"minecraft:item": {
+						"description": {
+							"identifier": "minecraft:cooked_rabbit"
+						},
+						"components": {
+							"minecraft:use_duration": 32,
+							"minecraft:food": {
+								"nutrition": 5,
+								"saturation_modifier": "normal",
+								"effects": [
+									{
+										"name": "fatal_poison",
+										"duration": 10,
+										"amplifier": 1
+									}
+								]
+							}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "minecraft:cooked_rabbit"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "minecraft:cooked_rabbit"
+							},
+							"components": {
+								"minecraft:use_duration": 32,
+								"minecraft:food": {
+									"nutrition": 5,
+									"saturation_modifier": "normal",
+									"effects": [
+										{
+											"name": "fatal_poison",
+											"duration": 10,
+											"amplifier": 1
+										}
+									]
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "32",
+								"key": "minecraft:use_duration"
+							},
+							{
+								"open": {
+									"minecraft:use_duration": 32,
+									"minecraft:food": {
+										"nutrition": 5,
+										"saturation_modifier": "normal",
+										"effects": [
+											{
+												"name": "fatal_poison",
+												"duration": 10,
+												"amplifier": 1
+											}
+										]
+									}
+								},
+								"key": "minecraft:food",
+								"children": [
+									{
+										"data": "5",
+										"key": "nutrition"
+									},
+									{
+										"data": "normal",
+										"key": "saturation_modifier"
+									},
+									{
+										"open": {
+											"nutrition": 5,
+											"saturation_modifier": "normal",
+											"effects": [
+												{
+													"name": "fatal_poison",
+													"duration": 10,
+													"amplifier": 1
+												}
+											]
+										},
+										"key": "effects",
+										"children": [
+											{
+												"open": [
+													{
+														"name": "fatal_poison",
+														"duration": 10,
+														"amplifier": 1
+													}
+												],
+												"is_minified": true,
+												"children": {
+													"name": "fatal_poison",
+													"duration": 10,
+													"amplifier": 1
+												}
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

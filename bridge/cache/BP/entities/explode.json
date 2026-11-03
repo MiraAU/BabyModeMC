@@ -1,0 +1,120 @@
+{
+	"file_path": "C:\\Users\\jesse\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Cursed Difficulty\\entities\\explode.json",
+	"file_type": "entity",
+	"format_version": 1,
+	"file_uuid": "4d7b5edc_d4e5_40e7_96d4_89b8a29b026f",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:entity": {
+						"description": {
+							"identifier": "jsr:explode",
+							"is_summonable": true,
+							"is_spawnable": true,
+							"is_experimental": false
+						},
+						"component_groups": {},
+						"components": {
+							"minecraft:explode": {
+								"power": 2,
+								"fuse_length": 0.1,
+								"causes_fire": false,
+								"breaks_blocks": true
+							}
+						},
+						"events": {}
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"key": "minecraft:entity",
+				"children": [
+					{
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "jsr:explode",
+							"is_summonable": true,
+							"is_spawnable": true,
+							"is_experimental": false
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "jsr:explode",
+								"is_summonable": true,
+								"is_spawnable": true,
+								"is_experimental": false
+							},
+							"component_groups": {},
+							"components": {
+								"minecraft:explode": {
+									"power": 2,
+									"fuse_length": 0.1,
+									"causes_fire": false,
+									"breaks_blocks": true
+								}
+							},
+							"events": {}
+						},
+						"key": "component_groups",
+						"is_minified": true,
+						"children": {}
+					},
+					{
+						"key": "components",
+						"children": [
+							{
+								"open": {
+									"minecraft:explode": {
+										"power": 2,
+										"fuse_length": 0.1,
+										"causes_fire": false,
+										"breaks_blocks": true
+									}
+								},
+								"key": "minecraft:explode",
+								"is_minified": true,
+								"children": {
+									"power": 2,
+									"fuse_length": 0.1,
+									"causes_fire": false,
+									"breaks_blocks": true
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "jsr:explode",
+								"is_summonable": true,
+								"is_spawnable": true,
+								"is_experimental": false
+							},
+							"component_groups": {},
+							"components": {
+								"minecraft:explode": {
+									"power": 2,
+									"fuse_length": 0.1,
+									"causes_fire": false,
+									"breaks_blocks": true
+								}
+							},
+							"events": {}
+						},
+						"key": "events",
+						"is_minified": true,
+						"children": {}
+					}
+				]
+			}
+		]
+	}
+}

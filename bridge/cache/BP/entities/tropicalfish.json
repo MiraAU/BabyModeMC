@@ -1,0 +1,4567 @@
+{
+	"file_path": "C:\\Users\\jesse\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Baby Mode\\entities\\tropicalfish.json",
+	"file_type": "entity",
+	"format_version": 1,
+	"file_uuid": "31512bc9_251a_4867_a67b_1216b4a51dfc",
+	"file_version": 4,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:entity": {
+						"description": {
+							"identifier": "minecraft:tropicalfish",
+							"is_spawnable": true,
+							"is_summonable": true,
+							"is_experimental": false
+						},
+						"component_groups": {
+							"minecraft:tropicalfish_variant_a": {
+								"minecraft:variant": {
+									"value": 0
+								}
+							},
+							"minecraft:tropicalfish_variant_b": {
+								"minecraft:variant": {
+									"value": 1
+								}
+							},
+							"minecraft:tropicalfish_variant_pattern_1": {
+								"minecraft:mark_variant": {
+									"value": 0
+								}
+							},
+							"minecraft:tropicalfish_variant_pattern_2": {
+								"minecraft:mark_variant": {
+									"value": 1
+								}
+							},
+							"minecraft:tropicalfish_variant_pattern_3": {
+								"minecraft:mark_variant": {
+									"value": 2
+								}
+							},
+							"minecraft:tropicalfish_variant_pattern_4": {
+								"minecraft:mark_variant": {
+									"value": 3
+								}
+							},
+							"minecraft:tropicalfish_variant_pattern_5": {
+								"minecraft:mark_variant": {
+									"value": 4
+								}
+							},
+							"minecraft:tropicalfish_variant_pattern_6": {
+								"minecraft:mark_variant": {
+									"value": 5
+								}
+							},
+							"minecraft:tropicalfish_base_white": {
+								"minecraft:color": {
+									"value": 0
+								}
+							},
+							"minecraft:tropicalfish_base_orange": {
+								"minecraft:color": {
+									"value": 1
+								}
+							},
+							"minecraft:tropicalfish_base_magenta": {
+								"minecraft:color": {
+									"value": 2
+								}
+							},
+							"minecraft:tropicalfish_base_lightblue": {
+								"minecraft:color": {
+									"value": 3
+								}
+							},
+							"minecraft:tropicalfish_base_yellow": {
+								"minecraft:color": {
+									"value": 4
+								}
+							},
+							"minecraft:tropicalfish_base_lightgreen": {
+								"minecraft:color": {
+									"value": 5
+								}
+							},
+							"minecraft:tropicalfish_base_pink": {
+								"minecraft:color": {
+									"value": 6
+								}
+							},
+							"minecraft:tropicalfish_base_gray": {
+								"minecraft:color": {
+									"value": 7
+								}
+							},
+							"minecraft:tropicalfish_base_silver": {
+								"minecraft:color": {
+									"value": 8
+								}
+							},
+							"minecraft:tropicalfish_base_cyan": {
+								"minecraft:color": {
+									"value": 9
+								}
+							},
+							"minecraft:tropicalfish_base_purple": {
+								"minecraft:color": {
+									"value": 10
+								}
+							},
+							"minecraft:tropicalfish_base_blue": {
+								"minecraft:color": {
+									"value": 11
+								}
+							},
+							"minecraft:tropicalfish_base_brown": {
+								"minecraft:color": {
+									"value": 12
+								}
+							},
+							"minecraft:tropicalfish_base_green": {
+								"minecraft:color": {
+									"value": 13
+								}
+							},
+							"minecraft:tropicalfish_base_red": {
+								"minecraft:color": {
+									"value": 14
+								}
+							},
+							"minecraft:tropicalfish_pattern_white": {
+								"minecraft:color2": {
+									"value": 0
+								}
+							},
+							"minecraft:tropicalfish_pattern_orange": {
+								"minecraft:color2": {
+									"value": 1
+								}
+							},
+							"minecraft:tropicalfish_pattern_magenta": {
+								"minecraft:color2": {
+									"value": 2
+								}
+							},
+							"minecraft:tropicalfish_pattern_lightblue": {
+								"minecraft:color2": {
+									"value": 3
+								}
+							},
+							"minecraft:tropicalfish_pattern_yellow": {
+								"minecraft:color2": {
+									"value": 4
+								}
+							},
+							"minecraft:tropicalfish_pattern_lightgreen": {
+								"minecraft:color2": {
+									"value": 5
+								}
+							},
+							"minecraft:tropicalfish_pattern_pink": {
+								"minecraft:color2": {
+									"value": 6
+								}
+							},
+							"minecraft:tropicalfish_pattern_gray": {
+								"minecraft:color2": {
+									"value": 7
+								}
+							},
+							"minecraft:tropicalfish_pattern_silver": {
+								"minecraft:color2": {
+									"value": 8
+								}
+							},
+							"minecraft:tropicalfish_pattern_cyan": {
+								"minecraft:color2": {
+									"value": 9
+								}
+							},
+							"minecraft:tropicalfish_pattern_purple": {
+								"minecraft:color2": {
+									"value": 10
+								}
+							},
+							"minecraft:tropicalfish_pattern_blue": {
+								"minecraft:color2": {
+									"value": 11
+								}
+							},
+							"minecraft:tropicalfish_pattern_brown": {
+								"minecraft:color2": {
+									"value": 12
+								}
+							},
+							"minecraft:tropicalfish_pattern_green": {
+								"minecraft:color2": {
+									"value": 13
+								}
+							},
+							"minecraft:tropicalfish_pattern_red": {
+								"minecraft:color2": {
+									"value": 14
+								}
+							},
+							"minecraft:anenonme": {
+								"minecraft:variant": {
+									"value": 1
+								},
+								"minecraft:mark_variant": {
+									"value": 1
+								},
+								"minecraft:color": {
+									"value": 1
+								},
+								"minecraft:color2": {
+									"value": 7
+								}
+							},
+							"minecraft:black_tang": {
+								"minecraft:variant": {
+									"value": 1
+								},
+								"minecraft:mark_variant": {
+									"value": 0
+								},
+								"minecraft:color": {
+									"value": 7
+								},
+								"minecraft:color2": {
+									"value": 7
+								}
+							},
+							"minecraft:blue_dory": {
+								"minecraft:variant": {
+									"value": 0
+								},
+								"minecraft:mark_variant": {
+									"value": 1
+								},
+								"minecraft:color": {
+									"value": 7
+								},
+								"minecraft:color2": {
+									"value": 3
+								}
+							},
+							"minecraft:butterfly_fish": {
+								"minecraft:variant": {
+									"value": 0
+								},
+								"minecraft:mark_variant": {
+									"value": 4
+								},
+								"minecraft:color": {
+									"value": 0
+								},
+								"minecraft:color2": {
+									"value": 7
+								}
+							},
+							"minecraft:cichlid": {
+								"minecraft:variant": {
+									"value": 0
+								},
+								"minecraft:mark_variant": {
+									"value": 1
+								},
+								"minecraft:color": {
+									"value": 11
+								},
+								"minecraft:color2": {
+									"value": 7
+								}
+							},
+							"minecraft:clownfish": {
+								"minecraft:variant": {
+									"value": 0
+								},
+								"minecraft:mark_variant": {
+									"value": 0
+								},
+								"minecraft:color": {
+									"value": 1
+								},
+								"minecraft:color2": {
+									"value": 0
+								}
+							},
+							"minecraft:cc_betta": {
+								"minecraft:variant": {
+									"value": 0
+								},
+								"minecraft:mark_variant": {
+									"value": 5
+								},
+								"minecraft:color": {
+									"value": 6
+								},
+								"minecraft:color2": {
+									"value": 3
+								}
+							},
+							"minecraft:dog_fish": {
+								"minecraft:variant": {
+									"value": 1
+								},
+								"minecraft:mark_variant": {
+									"value": 3
+								},
+								"minecraft:color": {
+									"value": 10
+								},
+								"minecraft:color2": {
+									"value": 4
+								}
+							},
+							"minecraft:e_red_snapper": {
+								"minecraft:variant": {
+									"value": 1
+								},
+								"minecraft:mark_variant": {
+									"value": 5
+								},
+								"minecraft:color": {
+									"value": 0
+								},
+								"minecraft:color2": {
+									"value": 14
+								}
+							},
+							"minecraft:goat_fish": {
+								"minecraft:variant": {
+									"value": 0
+								},
+								"minecraft:mark_variant": {
+									"value": 5
+								},
+								"minecraft:color": {
+									"value": 0
+								},
+								"minecraft:color2": {
+									"value": 4
+								}
+							},
+							"minecraft:moorish_idol": {
+								"minecraft:variant": {
+									"value": 1
+								},
+								"minecraft:mark_variant": {
+									"value": 2
+								},
+								"minecraft:color": {
+									"value": 0
+								},
+								"minecraft:color2": {
+									"value": 7
+								}
+							},
+							"minecraft:ornate_butterfly": {
+								"minecraft:variant": {
+									"value": 1
+								},
+								"minecraft:mark_variant": {
+									"value": 5
+								},
+								"minecraft:color": {
+									"value": 0
+								},
+								"minecraft:color2": {
+									"value": 1
+								}
+							},
+							"minecraft:parrot_fish": {
+								"minecraft:variant": {
+									"value": 0
+								},
+								"minecraft:mark_variant": {
+									"value": 3
+								},
+								"minecraft:color": {
+									"value": 9
+								},
+								"minecraft:color2": {
+									"value": 6
+								}
+							},
+							"minecraft:queen_angel_fish": {
+								"minecraft:variant": {
+									"value": 0
+								},
+								"minecraft:mark_variant": {
+									"value": 4
+								},
+								"minecraft:color": {
+									"value": 5
+								},
+								"minecraft:color2": {
+									"value": 3
+								}
+							},
+							"minecraft:red_cichlid": {
+								"minecraft:variant": {
+									"value": 1
+								},
+								"minecraft:mark_variant": {
+									"value": 4
+								},
+								"minecraft:color": {
+									"value": 14
+								},
+								"minecraft:color2": {
+									"value": 0
+								}
+							},
+							"minecraft:red_lipped_benny": {
+								"minecraft:variant": {
+									"value": 0
+								},
+								"minecraft:mark_variant": {
+									"value": 2
+								},
+								"minecraft:color": {
+									"value": 7
+								},
+								"minecraft:color2": {
+									"value": 14
+								}
+							},
+							"minecraft:red_snapper": {
+								"minecraft:variant": {
+									"value": 1
+								},
+								"minecraft:mark_variant": {
+									"value": 3
+								},
+								"minecraft:color": {
+									"value": 14
+								},
+								"minecraft:color2": {
+									"value": 0
+								}
+							},
+							"minecraft:threadfin": {
+								"minecraft:variant": {
+									"value": 1
+								},
+								"minecraft:mark_variant": {
+									"value": 0
+								},
+								"minecraft:color": {
+									"value": 0
+								},
+								"minecraft:color2": {
+									"value": 4
+								}
+							},
+							"minecraft:tomato_clown": {
+								"minecraft:variant": {
+									"value": 0
+								},
+								"minecraft:mark_variant": {
+									"value": 1
+								},
+								"minecraft:color": {
+									"value": 14
+								},
+								"minecraft:color2": {
+									"value": 0
+								}
+							},
+							"minecraft:triggerfish": {
+								"minecraft:variant": {
+									"value": 0
+								},
+								"minecraft:mark_variant": {
+									"value": 1
+								},
+								"minecraft:color": {
+									"value": 7
+								},
+								"minecraft:color2": {
+									"value": 0
+								}
+							},
+							"minecraft:yellow_tang": {
+								"minecraft:variant": {
+									"value": 1
+								},
+								"minecraft:mark_variant": {
+									"value": 1
+								},
+								"minecraft:color": {
+									"value": 4
+								},
+								"minecraft:color2": {
+									"value": 4
+								}
+							},
+							"minecraft:yellowtail_parrot": {
+								"minecraft:variant": {
+									"value": 0
+								},
+								"minecraft:mark_variant": {
+									"value": 3
+								},
+								"minecraft:color": {
+									"value": 9
+								},
+								"minecraft:color2": {
+									"value": 4
+								}
+							}
+						},
+						"components": {
+							"minecraft:experience_reward": {
+								"on_death": "query.last_hit_by_player ? Math.Random(1,3) : 0"
+							},
+							"minecraft:type_family": {
+								"family": [
+									"tropicalfish",
+									"fish"
+								]
+							},
+							"minecraft:collision_box": {
+								"width": 0.4,
+								"height": 0.4
+							},
+							"minecraft:health": {
+								"value": 6,
+								"max": 6
+							},
+							"minecraft:hurt_on_condition": {
+								"damage_conditions": [
+									{
+										"filters": {
+											"test": "in_lava",
+											"subject": "self",
+											"operator": "==",
+											"value": true
+										},
+										"cause": "lava",
+										"damage_per_tick": 4
+									}
+								]
+							},
+							"minecraft:loot": {
+								"table": "loot_tables/entities/tropicalfish.json"
+							},
+							"minecraft:scale": {
+								"value": 1.3
+							},
+							"minecraft:breathable": {
+								"total_supply": 15,
+								"suffocate_time": 0,
+								"breathes_air": false,
+								"breathes_water": true
+							},
+							"minecraft:movement": {
+								"value": 0.12
+							},
+							"minecraft:underwater_movement": {
+								"value": 0.12
+							},
+							"minecraft:navigation.generic": {
+								"is_amphibious": false,
+								"can_path_over_water": false,
+								"can_swim": true,
+								"can_walk": false,
+								"can_breach": false,
+								"can_sink": false
+							},
+							"minecraft:movement.sway": {
+								"sway_amplitude": 0
+							},
+							"minecraft:physics": {
+								"has_gravity": false
+							},
+							"minecraft:pushable": {
+								"is_pushable": true,
+								"is_pushable_by_piston": true
+							},
+							"minecraft:despawn": {
+								"despawn_from_distance": {
+									"min_distance": 32,
+									"max_distance": 40
+								}
+							},
+							"minecraft:behavior.swim_idle": {
+								"priority": 5,
+								"idle_time": 5,
+								"success_rate": 0.1
+							},
+							"minecraft:behavior.random_swim": {
+								"priority": 3,
+								"speed_multiplier": 1,
+								"xz_dist": 16,
+								"y_dist": 4,
+								"interval": 0
+							},
+							"minecraft:behavior.avoid_mob_type": {
+								"priority": 1,
+								"entity_types": [
+									{
+										"filters": {
+											"test": "is_family",
+											"subject": "other",
+											"value": "player"
+										},
+										"max_dist": 6,
+										"walk_speed_multiplier": 1.5,
+										"sprint_speed_multiplier": 2
+									}
+								]
+							},
+							"minecraft:behavior.swim_wander": {
+								"priority": 4,
+								"interval": 0.1,
+								"look_ahead": 2,
+								"speed_multiplier": 1,
+								"wander_time": 5
+							},
+							"minecraft:flocking": {
+								"in_water": true,
+								"match_variants": true,
+								"use_center_of_mass": false,
+								"low_flock_limit": 4,
+								"high_flock_limit": 8,
+								"goal_weight": 2,
+								"loner_chance": 0.1,
+								"influence_radius": 3,
+								"breach_influence": 7,
+								"separation_weight": 0.65,
+								"separation_threshold": 0.15,
+								"cohesion_weight": 2.75,
+								"cohesion_threshold": 1.5,
+								"innner_cohesion_threshold": 1.5,
+								"min_height": 1.5,
+								"max_height": 6,
+								"block_distance": 2,
+								"block_weight": 0.85
+							},
+							"minecraft:nameable": {},
+							"minecraft:damage_sensor": {
+								"triggers": [
+									{
+										"on_damage": {
+											"event": "minecraft:tropicalfishm"
+										}
+									}
+								]
+							}
+						},
+						"events": {
+							"minecraft:become_anenonme": {
+								"add": {
+									"component_groups": [
+										"minecraft:anenonme"
+									]
+								}
+							},
+							"minecraft:become_black_tang": {
+								"add": {
+									"component_groups": [
+										"minecraft:black_tang"
+									]
+								}
+							},
+							"minecraft:become_blue_dory": {
+								"add": {
+									"component_groups": [
+										"minecraft:blue_dory"
+									]
+								}
+							},
+							"minecraft:become_butterfly_fish": {
+								"add": {
+									"component_groups": [
+										"minecraft:butterfly_fish"
+									]
+								}
+							},
+							"minecraft:become_cichlid": {
+								"add": {
+									"component_groups": [
+										"minecraft:cichlid"
+									]
+								}
+							},
+							"minecraft:become_clownfish": {
+								"add": {
+									"component_groups": [
+										"minecraft:clownfish"
+									]
+								}
+							},
+							"minecraft:become_cc_betta": {
+								"add": {
+									"component_groups": [
+										"minecraft:cc_betta"
+									]
+								}
+							},
+							"minecraft:become_dog_fish": {
+								"add": {
+									"component_groups": [
+										"minecraft:dog_fish"
+									]
+								}
+							},
+							"minecraft:become_e_red_snapper": {
+								"add": {
+									"component_groups": [
+										"minecraft:e_red_snapper"
+									]
+								}
+							},
+							"minecraft:become_goat_fish": {
+								"add": {
+									"component_groups": [
+										"minecraft:goat_fish"
+									]
+								}
+							},
+							"minecraft:become_moorish_idol": {
+								"add": {
+									"component_groups": [
+										"minecraft:moorish_idol"
+									]
+								}
+							},
+							"minecraft:become_ornate_butterfly": {
+								"add": {
+									"component_groups": [
+										"minecraft:ornate_butterfly"
+									]
+								}
+							},
+							"minecraft:become_parrot_fish": {
+								"add": {
+									"component_groups": [
+										"minecraft:parrot_fish"
+									]
+								}
+							},
+							"minecraft:become_queen_angel_fish": {
+								"add": {
+									"component_groups": [
+										"minecraft:queen_angel_fish"
+									]
+								}
+							},
+							"minecraft:become_red_cichlid": {
+								"add": {
+									"component_groups": [
+										"minecraft:red_cichlid"
+									]
+								}
+							},
+							"minecraft:become_red_lipped_benny": {
+								"add": {
+									"component_groups": [
+										"minecraft:red_lipped_benny"
+									]
+								}
+							},
+							"minecraft:become_red_snapper": {
+								"add": {
+									"component_groups": [
+										"minecraft:red_snapper"
+									]
+								}
+							},
+							"minecraft:become_threadfin": {
+								"add": {
+									"component_groups": [
+										"minecraft:threadfin"
+									]
+								}
+							},
+							"minecraft:become_tomato_clown": {
+								"add": {
+									"component_groups": [
+										"minecraft:tomato_clown"
+									]
+								}
+							},
+							"minecraft:become_triggerfish": {
+								"add": {
+									"component_groups": [
+										"minecraft:triggerfish"
+									]
+								}
+							},
+							"minecraft:become_yellow_tang": {
+								"add": {
+									"component_groups": [
+										"minecraft:yellow_tang"
+									]
+								}
+							},
+							"minecraft:become_yellow_tail_parrot": {
+								"add": {
+									"component_groups": [
+										"minecraft:yellow_tail_parrot"
+									]
+								}
+							},
+							"minecraft:entity_spawned": {
+								"sequence": [
+									{
+										"add": {
+											"component_groups": [
+												"adult"
+											]
+										}
+									},
+									{
+										"randomize": [
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_variant_a"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_variant_b"
+													]
+												}
+											}
+										]
+									},
+									{
+										"randomize": [
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_variant_pattern_1"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_variant_pattern_2"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_variant_pattern_3"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_variant_pattern_4"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_variant_pattern_5"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_variant_pattern_6"
+													]
+												}
+											}
+										]
+									},
+									{
+										"randomize": [
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_white"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_orange"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_magenta"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_lightblue"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_yellow"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_lightgreen"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_pink"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_gray"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_silver"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_cyan"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_purple"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_blue"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_brown"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_green"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_base_red"
+													]
+												}
+											}
+										]
+									},
+									{
+										"randomize": [
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_white"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_orange"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_magenta"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_lightblue"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_yellow"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_lightgreen"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_pink"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_gray"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_silver"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_cyan"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_purple"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_blue"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_brown"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_green"
+													]
+												}
+											},
+											{
+												"weight": 1,
+												"add": {
+													"component_groups": [
+														"minecraft:tropicalfish_pattern_red"
+													]
+												}
+											}
+										]
+									}
+								]
+							},
+							"minecraft:tropicalfishm": {
+								"execute": {
+									"commands": [
+										"/function tropicalfish"
+									]
+								}
+							}
+						}
+					}
+				},
+				"key": "minecraft:entity",
+				"children": [
+					{
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "minecraft:tropicalfish",
+							"is_spawnable": true,
+							"is_summonable": true,
+							"is_experimental": false
+						}
+					},
+					{
+						"key": "component_groups",
+						"children": [
+							{
+								"open": {
+									"minecraft:tropicalfish_variant_a": {
+										"minecraft:variant": {
+											"value": 0
+										}
+									},
+									"minecraft:tropicalfish_variant_b": {
+										"minecraft:variant": {
+											"value": 1
+										}
+									},
+									"minecraft:tropicalfish_variant_pattern_1": {
+										"minecraft:mark_variant": {
+											"value": 0
+										}
+									},
+									"minecraft:tropicalfish_variant_pattern_2": {
+										"minecraft:mark_variant": {
+											"value": 1
+										}
+									},
+									"minecraft:tropicalfish_variant_pattern_3": {
+										"minecraft:mark_variant": {
+											"value": 2
+										}
+									},
+									"minecraft:tropicalfish_variant_pattern_4": {
+										"minecraft:mark_variant": {
+											"value": 3
+										}
+									},
+									"minecraft:tropicalfish_variant_pattern_5": {
+										"minecraft:mark_variant": {
+											"value": 4
+										}
+									},
+									"minecraft:tropicalfish_variant_pattern_6": {
+										"minecraft:mark_variant": {
+											"value": 5
+										}
+									},
+									"minecraft:tropicalfish_base_white": {
+										"minecraft:color": {
+											"value": 0
+										}
+									},
+									"minecraft:tropicalfish_base_orange": {
+										"minecraft:color": {
+											"value": 1
+										}
+									},
+									"minecraft:tropicalfish_base_magenta": {
+										"minecraft:color": {
+											"value": 2
+										}
+									},
+									"minecraft:tropicalfish_base_lightblue": {
+										"minecraft:color": {
+											"value": 3
+										}
+									},
+									"minecraft:tropicalfish_base_yellow": {
+										"minecraft:color": {
+											"value": 4
+										}
+									},
+									"minecraft:tropicalfish_base_lightgreen": {
+										"minecraft:color": {
+											"value": 5
+										}
+									},
+									"minecraft:tropicalfish_base_pink": {
+										"minecraft:color": {
+											"value": 6
+										}
+									},
+									"minecraft:tropicalfish_base_gray": {
+										"minecraft:color": {
+											"value": 7
+										}
+									},
+									"minecraft:tropicalfish_base_silver": {
+										"minecraft:color": {
+											"value": 8
+										}
+									},
+									"minecraft:tropicalfish_base_cyan": {
+										"minecraft:color": {
+											"value": 9
+										}
+									},
+									"minecraft:tropicalfish_base_purple": {
+										"minecraft:color": {
+											"value": 10
+										}
+									},
+									"minecraft:tropicalfish_base_blue": {
+										"minecraft:color": {
+											"value": 11
+										}
+									},
+									"minecraft:tropicalfish_base_brown": {
+										"minecraft:color": {
+											"value": 12
+										}
+									},
+									"minecraft:tropicalfish_base_green": {
+										"minecraft:color": {
+											"value": 13
+										}
+									},
+									"minecraft:tropicalfish_base_red": {
+										"minecraft:color": {
+											"value": 14
+										}
+									},
+									"minecraft:tropicalfish_pattern_white": {
+										"minecraft:color2": {
+											"value": 0
+										}
+									},
+									"minecraft:tropicalfish_pattern_orange": {
+										"minecraft:color2": {
+											"value": 1
+										}
+									},
+									"minecraft:tropicalfish_pattern_magenta": {
+										"minecraft:color2": {
+											"value": 2
+										}
+									},
+									"minecraft:tropicalfish_pattern_lightblue": {
+										"minecraft:color2": {
+											"value": 3
+										}
+									},
+									"minecraft:tropicalfish_pattern_yellow": {
+										"minecraft:color2": {
+											"value": 4
+										}
+									},
+									"minecraft:tropicalfish_pattern_lightgreen": {
+										"minecraft:color2": {
+											"value": 5
+										}
+									},
+									"minecraft:tropicalfish_pattern_pink": {
+										"minecraft:color2": {
+											"value": 6
+										}
+									},
+									"minecraft:tropicalfish_pattern_gray": {
+										"minecraft:color2": {
+											"value": 7
+										}
+									},
+									"minecraft:tropicalfish_pattern_silver": {
+										"minecraft:color2": {
+											"value": 8
+										}
+									},
+									"minecraft:tropicalfish_pattern_cyan": {
+										"minecraft:color2": {
+											"value": 9
+										}
+									},
+									"minecraft:tropicalfish_pattern_purple": {
+										"minecraft:color2": {
+											"value": 10
+										}
+									},
+									"minecraft:tropicalfish_pattern_blue": {
+										"minecraft:color2": {
+											"value": 11
+										}
+									},
+									"minecraft:tropicalfish_pattern_brown": {
+										"minecraft:color2": {
+											"value": 12
+										}
+									},
+									"minecraft:tropicalfish_pattern_green": {
+										"minecraft:color2": {
+											"value": 13
+										}
+									},
+									"minecraft:tropicalfish_pattern_red": {
+										"minecraft:color2": {
+											"value": 14
+										}
+									},
+									"minecraft:anenonme": {
+										"minecraft:variant": {
+											"value": 1
+										},
+										"minecraft:mark_variant": {
+											"value": 1
+										},
+										"minecraft:color": {
+											"value": 1
+										},
+										"minecraft:color2": {
+											"value": 7
+										}
+									},
+									"minecraft:black_tang": {
+										"minecraft:variant": {
+											"value": 1
+										},
+										"minecraft:mark_variant": {
+											"value": 0
+										},
+										"minecraft:color": {
+											"value": 7
+										},
+										"minecraft:color2": {
+											"value": 7
+										}
+									},
+									"minecraft:blue_dory": {
+										"minecraft:variant": {
+											"value": 0
+										},
+										"minecraft:mark_variant": {
+											"value": 1
+										},
+										"minecraft:color": {
+											"value": 7
+										},
+										"minecraft:color2": {
+											"value": 3
+										}
+									},
+									"minecraft:butterfly_fish": {
+										"minecraft:variant": {
+											"value": 0
+										},
+										"minecraft:mark_variant": {
+											"value": 4
+										},
+										"minecraft:color": {
+											"value": 0
+										},
+										"minecraft:color2": {
+											"value": 7
+										}
+									},
+									"minecraft:cichlid": {
+										"minecraft:variant": {
+											"value": 0
+										},
+										"minecraft:mark_variant": {
+											"value": 1
+										},
+										"minecraft:color": {
+											"value": 11
+										},
+										"minecraft:color2": {
+											"value": 7
+										}
+									},
+									"minecraft:clownfish": {
+										"minecraft:variant": {
+											"value": 0
+										},
+										"minecraft:mark_variant": {
+											"value": 0
+										},
+										"minecraft:color": {
+											"value": 1
+										},
+										"minecraft:color2": {
+											"value": 0
+										}
+									},
+									"minecraft:cc_betta": {
+										"minecraft:variant": {
+											"value": 0
+										},
+										"minecraft:mark_variant": {
+											"value": 5
+										},
+										"minecraft:color": {
+											"value": 6
+										},
+										"minecraft:color2": {
+											"value": 3
+										}
+									},
+									"minecraft:dog_fish": {
+										"minecraft:variant": {
+											"value": 1
+										},
+										"minecraft:mark_variant": {
+											"value": 3
+										},
+										"minecraft:color": {
+											"value": 10
+										},
+										"minecraft:color2": {
+											"value": 4
+										}
+									},
+									"minecraft:e_red_snapper": {
+										"minecraft:variant": {
+											"value": 1
+										},
+										"minecraft:mark_variant": {
+											"value": 5
+										},
+										"minecraft:color": {
+											"value": 0
+										},
+										"minecraft:color2": {
+											"value": 14
+										}
+									},
+									"minecraft:goat_fish": {
+										"minecraft:variant": {
+											"value": 0
+										},
+										"minecraft:mark_variant": {
+											"value": 5
+										},
+										"minecraft:color": {
+											"value": 0
+										},
+										"minecraft:color2": {
+											"value": 4
+										}
+									},
+									"minecraft:moorish_idol": {
+										"minecraft:variant": {
+											"value": 1
+										},
+										"minecraft:mark_variant": {
+											"value": 2
+										},
+										"minecraft:color": {
+											"value": 0
+										},
+										"minecraft:color2": {
+											"value": 7
+										}
+									},
+									"minecraft:ornate_butterfly": {
+										"minecraft:variant": {
+											"value": 1
+										},
+										"minecraft:mark_variant": {
+											"value": 5
+										},
+										"minecraft:color": {
+											"value": 0
+										},
+										"minecraft:color2": {
+											"value": 1
+										}
+									},
+									"minecraft:parrot_fish": {
+										"minecraft:variant": {
+											"value": 0
+										},
+										"minecraft:mark_variant": {
+											"value": 3
+										},
+										"minecraft:color": {
+											"value": 9
+										},
+										"minecraft:color2": {
+											"value": 6
+										}
+									},
+									"minecraft:queen_angel_fish": {
+										"minecraft:variant": {
+											"value": 0
+										},
+										"minecraft:mark_variant": {
+											"value": 4
+										},
+										"minecraft:color": {
+											"value": 5
+										},
+										"minecraft:color2": {
+											"value": 3
+										}
+									},
+									"minecraft:red_cichlid": {
+										"minecraft:variant": {
+											"value": 1
+										},
+										"minecraft:mark_variant": {
+											"value": 4
+										},
+										"minecraft:color": {
+											"value": 14
+										},
+										"minecraft:color2": {
+											"value": 0
+										}
+									},
+									"minecraft:red_lipped_benny": {
+										"minecraft:variant": {
+											"value": 0
+										},
+										"minecraft:mark_variant": {
+											"value": 2
+										},
+										"minecraft:color": {
+											"value": 7
+										},
+										"minecraft:color2": {
+											"value": 14
+										}
+									},
+									"minecraft:red_snapper": {
+										"minecraft:variant": {
+											"value": 1
+										},
+										"minecraft:mark_variant": {
+											"value": 3
+										},
+										"minecraft:color": {
+											"value": 14
+										},
+										"minecraft:color2": {
+											"value": 0
+										}
+									},
+									"minecraft:threadfin": {
+										"minecraft:variant": {
+											"value": 1
+										},
+										"minecraft:mark_variant": {
+											"value": 0
+										},
+										"minecraft:color": {
+											"value": 0
+										},
+										"minecraft:color2": {
+											"value": 4
+										}
+									},
+									"minecraft:tomato_clown": {
+										"minecraft:variant": {
+											"value": 0
+										},
+										"minecraft:mark_variant": {
+											"value": 1
+										},
+										"minecraft:color": {
+											"value": 14
+										},
+										"minecraft:color2": {
+											"value": 0
+										}
+									},
+									"minecraft:triggerfish": {
+										"minecraft:variant": {
+											"value": 0
+										},
+										"minecraft:mark_variant": {
+											"value": 1
+										},
+										"minecraft:color": {
+											"value": 7
+										},
+										"minecraft:color2": {
+											"value": 0
+										}
+									},
+									"minecraft:yellow_tang": {
+										"minecraft:variant": {
+											"value": 1
+										},
+										"minecraft:mark_variant": {
+											"value": 1
+										},
+										"minecraft:color": {
+											"value": 4
+										},
+										"minecraft:color2": {
+											"value": 4
+										}
+									},
+									"minecraft:yellowtail_parrot": {
+										"minecraft:variant": {
+											"value": 0
+										},
+										"minecraft:mark_variant": {
+											"value": 3
+										},
+										"minecraft:color": {
+											"value": 9
+										},
+										"minecraft:color2": {
+											"value": 4
+										}
+									}
+								},
+								"key": "minecraft:tropicalfish_variant_a",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 0
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_variant_b",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 1
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_variant_pattern_1",
+								"is_minified": true,
+								"children": {
+									"minecraft:mark_variant": {
+										"value": 0
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_variant_pattern_2",
+								"is_minified": true,
+								"children": {
+									"minecraft:mark_variant": {
+										"value": 1
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_variant_pattern_3",
+								"is_minified": true,
+								"children": {
+									"minecraft:mark_variant": {
+										"value": 2
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_variant_pattern_4",
+								"is_minified": true,
+								"children": {
+									"minecraft:mark_variant": {
+										"value": 3
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_variant_pattern_5",
+								"is_minified": true,
+								"children": {
+									"minecraft:mark_variant": {
+										"value": 4
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_variant_pattern_6",
+								"is_minified": true,
+								"children": {
+									"minecraft:mark_variant": {
+										"value": 5
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_white",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 0
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_orange",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 1
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_magenta",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 2
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_lightblue",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 3
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_yellow",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 4
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_lightgreen",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 5
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_pink",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 6
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_gray",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 7
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_silver",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 8
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_cyan",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 9
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_purple",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 10
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_blue",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 11
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_brown",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 12
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_green",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 13
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_base_red",
+								"is_minified": true,
+								"children": {
+									"minecraft:color": {
+										"value": 14
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_white",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 0
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_orange",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 1
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_magenta",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 2
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_lightblue",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 3
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_yellow",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 4
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_lightgreen",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 5
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_pink",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 6
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_gray",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 7
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_silver",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 8
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_cyan",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 9
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_purple",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 10
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_blue",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 11
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_brown",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 12
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_green",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 13
+									}
+								}
+							},
+							{
+								"key": "minecraft:tropicalfish_pattern_red",
+								"is_minified": true,
+								"children": {
+									"minecraft:color2": {
+										"value": 14
+									}
+								}
+							},
+							{
+								"key": "minecraft:anenonme",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 1
+									},
+									"minecraft:color": {
+										"value": 1
+									},
+									"minecraft:color2": {
+										"value": 7
+									}
+								}
+							},
+							{
+								"key": "minecraft:black_tang",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 0
+									},
+									"minecraft:color": {
+										"value": 7
+									},
+									"minecraft:color2": {
+										"value": 7
+									}
+								}
+							},
+							{
+								"key": "minecraft:blue_dory",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 1
+									},
+									"minecraft:color": {
+										"value": 7
+									},
+									"minecraft:color2": {
+										"value": 3
+									}
+								}
+							},
+							{
+								"key": "minecraft:butterfly_fish",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 4
+									},
+									"minecraft:color": {
+										"value": 0
+									},
+									"minecraft:color2": {
+										"value": 7
+									}
+								}
+							},
+							{
+								"key": "minecraft:cichlid",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 1
+									},
+									"minecraft:color": {
+										"value": 11
+									},
+									"minecraft:color2": {
+										"value": 7
+									}
+								}
+							},
+							{
+								"key": "minecraft:clownfish",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 0
+									},
+									"minecraft:color": {
+										"value": 1
+									},
+									"minecraft:color2": {
+										"value": 0
+									}
+								}
+							},
+							{
+								"key": "minecraft:cc_betta",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 5
+									},
+									"minecraft:color": {
+										"value": 6
+									},
+									"minecraft:color2": {
+										"value": 3
+									}
+								}
+							},
+							{
+								"key": "minecraft:dog_fish",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 3
+									},
+									"minecraft:color": {
+										"value": 10
+									},
+									"minecraft:color2": {
+										"value": 4
+									}
+								}
+							},
+							{
+								"key": "minecraft:e_red_snapper",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 5
+									},
+									"minecraft:color": {
+										"value": 0
+									},
+									"minecraft:color2": {
+										"value": 14
+									}
+								}
+							},
+							{
+								"key": "minecraft:goat_fish",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 5
+									},
+									"minecraft:color": {
+										"value": 0
+									},
+									"minecraft:color2": {
+										"value": 4
+									}
+								}
+							},
+							{
+								"key": "minecraft:moorish_idol",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 2
+									},
+									"minecraft:color": {
+										"value": 0
+									},
+									"minecraft:color2": {
+										"value": 7
+									}
+								}
+							},
+							{
+								"key": "minecraft:ornate_butterfly",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 5
+									},
+									"minecraft:color": {
+										"value": 0
+									},
+									"minecraft:color2": {
+										"value": 1
+									}
+								}
+							},
+							{
+								"key": "minecraft:parrot_fish",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 3
+									},
+									"minecraft:color": {
+										"value": 9
+									},
+									"minecraft:color2": {
+										"value": 6
+									}
+								}
+							},
+							{
+								"key": "minecraft:queen_angel_fish",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 4
+									},
+									"minecraft:color": {
+										"value": 5
+									},
+									"minecraft:color2": {
+										"value": 3
+									}
+								}
+							},
+							{
+								"key": "minecraft:red_cichlid",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 4
+									},
+									"minecraft:color": {
+										"value": 14
+									},
+									"minecraft:color2": {
+										"value": 0
+									}
+								}
+							},
+							{
+								"key": "minecraft:red_lipped_benny",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 2
+									},
+									"minecraft:color": {
+										"value": 7
+									},
+									"minecraft:color2": {
+										"value": 14
+									}
+								}
+							},
+							{
+								"key": "minecraft:red_snapper",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 3
+									},
+									"minecraft:color": {
+										"value": 14
+									},
+									"minecraft:color2": {
+										"value": 0
+									}
+								}
+							},
+							{
+								"key": "minecraft:threadfin",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 0
+									},
+									"minecraft:color": {
+										"value": 0
+									},
+									"minecraft:color2": {
+										"value": 4
+									}
+								}
+							},
+							{
+								"key": "minecraft:tomato_clown",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 1
+									},
+									"minecraft:color": {
+										"value": 14
+									},
+									"minecraft:color2": {
+										"value": 0
+									}
+								}
+							},
+							{
+								"key": "minecraft:triggerfish",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 1
+									},
+									"minecraft:color": {
+										"value": 7
+									},
+									"minecraft:color2": {
+										"value": 0
+									}
+								}
+							},
+							{
+								"key": "minecraft:yellow_tang",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 1
+									},
+									"minecraft:color": {
+										"value": 4
+									},
+									"minecraft:color2": {
+										"value": 4
+									}
+								}
+							},
+							{
+								"key": "minecraft:yellowtail_parrot",
+								"is_minified": true,
+								"children": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 3
+									},
+									"minecraft:color": {
+										"value": 9
+									},
+									"minecraft:color2": {
+										"value": 4
+									}
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "minecraft:tropicalfish",
+								"is_spawnable": true,
+								"is_summonable": true,
+								"is_experimental": false
+							},
+							"component_groups": {
+								"minecraft:tropicalfish_variant_a": {
+									"minecraft:variant": {
+										"value": 0
+									}
+								},
+								"minecraft:tropicalfish_variant_b": {
+									"minecraft:variant": {
+										"value": 1
+									}
+								},
+								"minecraft:tropicalfish_variant_pattern_1": {
+									"minecraft:mark_variant": {
+										"value": 0
+									}
+								},
+								"minecraft:tropicalfish_variant_pattern_2": {
+									"minecraft:mark_variant": {
+										"value": 1
+									}
+								},
+								"minecraft:tropicalfish_variant_pattern_3": {
+									"minecraft:mark_variant": {
+										"value": 2
+									}
+								},
+								"minecraft:tropicalfish_variant_pattern_4": {
+									"minecraft:mark_variant": {
+										"value": 3
+									}
+								},
+								"minecraft:tropicalfish_variant_pattern_5": {
+									"minecraft:mark_variant": {
+										"value": 4
+									}
+								},
+								"minecraft:tropicalfish_variant_pattern_6": {
+									"minecraft:mark_variant": {
+										"value": 5
+									}
+								},
+								"minecraft:tropicalfish_base_white": {
+									"minecraft:color": {
+										"value": 0
+									}
+								},
+								"minecraft:tropicalfish_base_orange": {
+									"minecraft:color": {
+										"value": 1
+									}
+								},
+								"minecraft:tropicalfish_base_magenta": {
+									"minecraft:color": {
+										"value": 2
+									}
+								},
+								"minecraft:tropicalfish_base_lightblue": {
+									"minecraft:color": {
+										"value": 3
+									}
+								},
+								"minecraft:tropicalfish_base_yellow": {
+									"minecraft:color": {
+										"value": 4
+									}
+								},
+								"minecraft:tropicalfish_base_lightgreen": {
+									"minecraft:color": {
+										"value": 5
+									}
+								},
+								"minecraft:tropicalfish_base_pink": {
+									"minecraft:color": {
+										"value": 6
+									}
+								},
+								"minecraft:tropicalfish_base_gray": {
+									"minecraft:color": {
+										"value": 7
+									}
+								},
+								"minecraft:tropicalfish_base_silver": {
+									"minecraft:color": {
+										"value": 8
+									}
+								},
+								"minecraft:tropicalfish_base_cyan": {
+									"minecraft:color": {
+										"value": 9
+									}
+								},
+								"minecraft:tropicalfish_base_purple": {
+									"minecraft:color": {
+										"value": 10
+									}
+								},
+								"minecraft:tropicalfish_base_blue": {
+									"minecraft:color": {
+										"value": 11
+									}
+								},
+								"minecraft:tropicalfish_base_brown": {
+									"minecraft:color": {
+										"value": 12
+									}
+								},
+								"minecraft:tropicalfish_base_green": {
+									"minecraft:color": {
+										"value": 13
+									}
+								},
+								"minecraft:tropicalfish_base_red": {
+									"minecraft:color": {
+										"value": 14
+									}
+								},
+								"minecraft:tropicalfish_pattern_white": {
+									"minecraft:color2": {
+										"value": 0
+									}
+								},
+								"minecraft:tropicalfish_pattern_orange": {
+									"minecraft:color2": {
+										"value": 1
+									}
+								},
+								"minecraft:tropicalfish_pattern_magenta": {
+									"minecraft:color2": {
+										"value": 2
+									}
+								},
+								"minecraft:tropicalfish_pattern_lightblue": {
+									"minecraft:color2": {
+										"value": 3
+									}
+								},
+								"minecraft:tropicalfish_pattern_yellow": {
+									"minecraft:color2": {
+										"value": 4
+									}
+								},
+								"minecraft:tropicalfish_pattern_lightgreen": {
+									"minecraft:color2": {
+										"value": 5
+									}
+								},
+								"minecraft:tropicalfish_pattern_pink": {
+									"minecraft:color2": {
+										"value": 6
+									}
+								},
+								"minecraft:tropicalfish_pattern_gray": {
+									"minecraft:color2": {
+										"value": 7
+									}
+								},
+								"minecraft:tropicalfish_pattern_silver": {
+									"minecraft:color2": {
+										"value": 8
+									}
+								},
+								"minecraft:tropicalfish_pattern_cyan": {
+									"minecraft:color2": {
+										"value": 9
+									}
+								},
+								"minecraft:tropicalfish_pattern_purple": {
+									"minecraft:color2": {
+										"value": 10
+									}
+								},
+								"minecraft:tropicalfish_pattern_blue": {
+									"minecraft:color2": {
+										"value": 11
+									}
+								},
+								"minecraft:tropicalfish_pattern_brown": {
+									"minecraft:color2": {
+										"value": 12
+									}
+								},
+								"minecraft:tropicalfish_pattern_green": {
+									"minecraft:color2": {
+										"value": 13
+									}
+								},
+								"minecraft:tropicalfish_pattern_red": {
+									"minecraft:color2": {
+										"value": 14
+									}
+								},
+								"minecraft:anenonme": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 1
+									},
+									"minecraft:color": {
+										"value": 1
+									},
+									"minecraft:color2": {
+										"value": 7
+									}
+								},
+								"minecraft:black_tang": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 0
+									},
+									"minecraft:color": {
+										"value": 7
+									},
+									"minecraft:color2": {
+										"value": 7
+									}
+								},
+								"minecraft:blue_dory": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 1
+									},
+									"minecraft:color": {
+										"value": 7
+									},
+									"minecraft:color2": {
+										"value": 3
+									}
+								},
+								"minecraft:butterfly_fish": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 4
+									},
+									"minecraft:color": {
+										"value": 0
+									},
+									"minecraft:color2": {
+										"value": 7
+									}
+								},
+								"minecraft:cichlid": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 1
+									},
+									"minecraft:color": {
+										"value": 11
+									},
+									"minecraft:color2": {
+										"value": 7
+									}
+								},
+								"minecraft:clownfish": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 0
+									},
+									"minecraft:color": {
+										"value": 1
+									},
+									"minecraft:color2": {
+										"value": 0
+									}
+								},
+								"minecraft:cc_betta": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 5
+									},
+									"minecraft:color": {
+										"value": 6
+									},
+									"minecraft:color2": {
+										"value": 3
+									}
+								},
+								"minecraft:dog_fish": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 3
+									},
+									"minecraft:color": {
+										"value": 10
+									},
+									"minecraft:color2": {
+										"value": 4
+									}
+								},
+								"minecraft:e_red_snapper": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 5
+									},
+									"minecraft:color": {
+										"value": 0
+									},
+									"minecraft:color2": {
+										"value": 14
+									}
+								},
+								"minecraft:goat_fish": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 5
+									},
+									"minecraft:color": {
+										"value": 0
+									},
+									"minecraft:color2": {
+										"value": 4
+									}
+								},
+								"minecraft:moorish_idol": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 2
+									},
+									"minecraft:color": {
+										"value": 0
+									},
+									"minecraft:color2": {
+										"value": 7
+									}
+								},
+								"minecraft:ornate_butterfly": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 5
+									},
+									"minecraft:color": {
+										"value": 0
+									},
+									"minecraft:color2": {
+										"value": 1
+									}
+								},
+								"minecraft:parrot_fish": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 3
+									},
+									"minecraft:color": {
+										"value": 9
+									},
+									"minecraft:color2": {
+										"value": 6
+									}
+								},
+								"minecraft:queen_angel_fish": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 4
+									},
+									"minecraft:color": {
+										"value": 5
+									},
+									"minecraft:color2": {
+										"value": 3
+									}
+								},
+								"minecraft:red_cichlid": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 4
+									},
+									"minecraft:color": {
+										"value": 14
+									},
+									"minecraft:color2": {
+										"value": 0
+									}
+								},
+								"minecraft:red_lipped_benny": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 2
+									},
+									"minecraft:color": {
+										"value": 7
+									},
+									"minecraft:color2": {
+										"value": 14
+									}
+								},
+								"minecraft:red_snapper": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 3
+									},
+									"minecraft:color": {
+										"value": 14
+									},
+									"minecraft:color2": {
+										"value": 0
+									}
+								},
+								"minecraft:threadfin": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 0
+									},
+									"minecraft:color": {
+										"value": 0
+									},
+									"minecraft:color2": {
+										"value": 4
+									}
+								},
+								"minecraft:tomato_clown": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 1
+									},
+									"minecraft:color": {
+										"value": 14
+									},
+									"minecraft:color2": {
+										"value": 0
+									}
+								},
+								"minecraft:triggerfish": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 1
+									},
+									"minecraft:color": {
+										"value": 7
+									},
+									"minecraft:color2": {
+										"value": 0
+									}
+								},
+								"minecraft:yellow_tang": {
+									"minecraft:variant": {
+										"value": 1
+									},
+									"minecraft:mark_variant": {
+										"value": 1
+									},
+									"minecraft:color": {
+										"value": 4
+									},
+									"minecraft:color2": {
+										"value": 4
+									}
+								},
+								"minecraft:yellowtail_parrot": {
+									"minecraft:variant": {
+										"value": 0
+									},
+									"minecraft:mark_variant": {
+										"value": 3
+									},
+									"minecraft:color": {
+										"value": 9
+									},
+									"minecraft:color2": {
+										"value": 4
+									}
+								}
+							},
+							"components": {
+								"minecraft:experience_reward": {
+									"on_death": "query.last_hit_by_player ? Math.Random(1,3) : 0"
+								},
+								"minecraft:type_family": {
+									"family": [
+										"tropicalfish",
+										"fish"
+									]
+								},
+								"minecraft:collision_box": {
+									"width": 0.4,
+									"height": 0.4
+								},
+								"minecraft:health": {
+									"value": 6,
+									"max": 6
+								},
+								"minecraft:hurt_on_condition": {
+									"damage_conditions": [
+										{
+											"filters": {
+												"test": "in_lava",
+												"subject": "self",
+												"operator": "==",
+												"value": true
+											},
+											"cause": "lava",
+											"damage_per_tick": 4
+										}
+									]
+								},
+								"minecraft:loot": {
+									"table": "loot_tables/entities/tropicalfish.json"
+								},
+								"minecraft:scale": {
+									"value": 1.3
+								},
+								"minecraft:breathable": {
+									"total_supply": 15,
+									"suffocate_time": 0,
+									"breathes_air": false,
+									"breathes_water": true
+								},
+								"minecraft:movement": {
+									"value": 0.12
+								},
+								"minecraft:underwater_movement": {
+									"value": 0.12
+								},
+								"minecraft:navigation.generic": {
+									"is_amphibious": false,
+									"can_path_over_water": false,
+									"can_swim": true,
+									"can_walk": false,
+									"can_breach": false,
+									"can_sink": false
+								},
+								"minecraft:movement.sway": {
+									"sway_amplitude": 0
+								},
+								"minecraft:physics": {
+									"has_gravity": false
+								},
+								"minecraft:pushable": {
+									"is_pushable": true,
+									"is_pushable_by_piston": true
+								},
+								"minecraft:despawn": {
+									"despawn_from_distance": {
+										"min_distance": 32,
+										"max_distance": 40
+									}
+								},
+								"minecraft:behavior.swim_idle": {
+									"priority": 5,
+									"idle_time": 5,
+									"success_rate": 0.1
+								},
+								"minecraft:behavior.random_swim": {
+									"priority": 3,
+									"speed_multiplier": 1,
+									"xz_dist": 16,
+									"y_dist": 4,
+									"interval": 0
+								},
+								"minecraft:behavior.avoid_mob_type": {
+									"priority": 1,
+									"entity_types": [
+										{
+											"filters": {
+												"test": "is_family",
+												"subject": "other",
+												"value": "player"
+											},
+											"max_dist": 6,
+											"walk_speed_multiplier": 1.5,
+											"sprint_speed_multiplier": 2
+										}
+									]
+								},
+								"minecraft:behavior.swim_wander": {
+									"priority": 4,
+									"interval": 0.1,
+									"look_ahead": 2,
+									"speed_multiplier": 1,
+									"wander_time": 5
+								},
+								"minecraft:flocking": {
+									"in_water": true,
+									"match_variants": true,
+									"use_center_of_mass": false,
+									"low_flock_limit": 4,
+									"high_flock_limit": 8,
+									"goal_weight": 2,
+									"loner_chance": 0.1,
+									"influence_radius": 3,
+									"breach_influence": 7,
+									"separation_weight": 0.65,
+									"separation_threshold": 0.15,
+									"cohesion_weight": 2.75,
+									"cohesion_threshold": 1.5,
+									"innner_cohesion_threshold": 1.5,
+									"min_height": 1.5,
+									"max_height": 6,
+									"block_distance": 2,
+									"block_weight": 0.85
+								},
+								"minecraft:nameable": {},
+								"minecraft:damage_sensor": {
+									"triggers": [
+										{
+											"on_damage": {
+												"event": "minecraft:tropicalfishm"
+											}
+										}
+									]
+								}
+							},
+							"events": {
+								"minecraft:become_anenonme": {
+									"add": {
+										"component_groups": [
+											"minecraft:anenonme"
+										]
+									}
+								},
+								"minecraft:become_black_tang": {
+									"add": {
+										"component_groups": [
+											"minecraft:black_tang"
+										]
+									}
+								},
+								"minecraft:become_blue_dory": {
+									"add": {
+										"component_groups": [
+											"minecraft:blue_dory"
+										]
+									}
+								},
+								"minecraft:become_butterfly_fish": {
+									"add": {
+										"component_groups": [
+											"minecraft:butterfly_fish"
+										]
+									}
+								},
+								"minecraft:become_cichlid": {
+									"add": {
+										"component_groups": [
+											"minecraft:cichlid"
+										]
+									}
+								},
+								"minecraft:become_clownfish": {
+									"add": {
+										"component_groups": [
+											"minecraft:clownfish"
+										]
+									}
+								},
+								"minecraft:become_cc_betta": {
+									"add": {
+										"component_groups": [
+											"minecraft:cc_betta"
+										]
+									}
+								},
+								"minecraft:become_dog_fish": {
+									"add": {
+										"component_groups": [
+											"minecraft:dog_fish"
+										]
+									}
+								},
+								"minecraft:become_e_red_snapper": {
+									"add": {
+										"component_groups": [
+											"minecraft:e_red_snapper"
+										]
+									}
+								},
+								"minecraft:become_goat_fish": {
+									"add": {
+										"component_groups": [
+											"minecraft:goat_fish"
+										]
+									}
+								},
+								"minecraft:become_moorish_idol": {
+									"add": {
+										"component_groups": [
+											"minecraft:moorish_idol"
+										]
+									}
+								},
+								"minecraft:become_ornate_butterfly": {
+									"add": {
+										"component_groups": [
+											"minecraft:ornate_butterfly"
+										]
+									}
+								},
+								"minecraft:become_parrot_fish": {
+									"add": {
+										"component_groups": [
+											"minecraft:parrot_fish"
+										]
+									}
+								},
+								"minecraft:become_queen_angel_fish": {
+									"add": {
+										"component_groups": [
+											"minecraft:queen_angel_fish"
+										]
+									}
+								},
+								"minecraft:become_red_cichlid": {
+									"add": {
+										"component_groups": [
+											"minecraft:red_cichlid"
+										]
+									}
+								},
+								"minecraft:become_red_lipped_benny": {
+									"add": {
+										"component_groups": [
+											"minecraft:red_lipped_benny"
+										]
+									}
+								},
+								"minecraft:become_red_snapper": {
+									"add": {
+										"component_groups": [
+											"minecraft:red_snapper"
+										]
+									}
+								},
+								"minecraft:become_threadfin": {
+									"add": {
+										"component_groups": [
+											"minecraft:threadfin"
+										]
+									}
+								},
+								"minecraft:become_tomato_clown": {
+									"add": {
+										"component_groups": [
+											"minecraft:tomato_clown"
+										]
+									}
+								},
+								"minecraft:become_triggerfish": {
+									"add": {
+										"component_groups": [
+											"minecraft:triggerfish"
+										]
+									}
+								},
+								"minecraft:become_yellow_tang": {
+									"add": {
+										"component_groups": [
+											"minecraft:yellow_tang"
+										]
+									}
+								},
+								"minecraft:become_yellow_tail_parrot": {
+									"add": {
+										"component_groups": [
+											"minecraft:yellow_tail_parrot"
+										]
+									}
+								},
+								"minecraft:entity_spawned": {
+									"sequence": [
+										{
+											"add": {
+												"component_groups": [
+													"adult"
+												]
+											}
+										},
+										{
+											"randomize": [
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_a"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_b"
+														]
+													}
+												}
+											]
+										},
+										{
+											"randomize": [
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_pattern_1"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_pattern_2"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_pattern_3"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_pattern_4"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_pattern_5"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_pattern_6"
+														]
+													}
+												}
+											]
+										},
+										{
+											"randomize": [
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_white"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_orange"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_magenta"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_lightblue"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_yellow"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_lightgreen"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_pink"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_gray"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_silver"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_cyan"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_purple"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_blue"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_brown"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_green"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_red"
+														]
+													}
+												}
+											]
+										},
+										{
+											"randomize": [
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_white"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_orange"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_magenta"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_lightblue"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_yellow"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_lightgreen"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_pink"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_gray"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_silver"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_cyan"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_purple"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_blue"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_brown"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_green"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_red"
+														]
+													}
+												}
+											]
+										}
+									]
+								},
+								"minecraft:tropicalfishm": {
+									"execute": {
+										"commands": [
+											"/function tropicalfish"
+										]
+									}
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"key": "minecraft:experience_reward",
+								"is_minified": true,
+								"children": {
+									"on_death": "query.last_hit_by_player ? Math.Random(1,3) : 0"
+								}
+							},
+							{
+								"key": "minecraft:type_family",
+								"is_minified": true,
+								"children": {
+									"family": [
+										"tropicalfish",
+										"fish"
+									]
+								}
+							},
+							{
+								"key": "minecraft:collision_box",
+								"is_minified": true,
+								"children": {
+									"width": 0.4,
+									"height": 0.4
+								}
+							},
+							{
+								"key": "minecraft:health",
+								"is_minified": true,
+								"children": {
+									"value": 6,
+									"max": 6
+								}
+							},
+							{
+								"key": "minecraft:hurt_on_condition",
+								"is_minified": true,
+								"children": {
+									"damage_conditions": [
+										{
+											"filters": {
+												"test": "in_lava",
+												"subject": "self",
+												"operator": "==",
+												"value": true
+											},
+											"cause": "lava",
+											"damage_per_tick": 4
+										}
+									]
+								}
+							},
+							{
+								"key": "minecraft:loot",
+								"is_minified": true,
+								"children": {
+									"table": "loot_tables/entities/tropicalfish.json"
+								}
+							},
+							{
+								"key": "minecraft:scale",
+								"is_minified": true,
+								"children": {
+									"value": 1.3
+								}
+							},
+							{
+								"key": "minecraft:breathable",
+								"is_minified": true,
+								"children": {
+									"total_supply": 15,
+									"suffocate_time": 0,
+									"breathes_air": false,
+									"breathes_water": true
+								}
+							},
+							{
+								"key": "minecraft:movement",
+								"is_minified": true,
+								"children": {
+									"value": 0.12
+								}
+							},
+							{
+								"key": "minecraft:underwater_movement",
+								"is_minified": true,
+								"children": {
+									"value": 0.12
+								}
+							},
+							{
+								"key": "minecraft:navigation.generic",
+								"is_minified": true,
+								"children": {
+									"is_amphibious": false,
+									"can_path_over_water": false,
+									"can_swim": true,
+									"can_walk": false,
+									"can_breach": false,
+									"can_sink": false
+								}
+							},
+							{
+								"key": "minecraft:movement.sway",
+								"is_minified": true,
+								"children": {
+									"sway_amplitude": 0
+								}
+							},
+							{
+								"key": "minecraft:physics",
+								"is_minified": true,
+								"children": {
+									"has_gravity": false
+								}
+							},
+							{
+								"key": "minecraft:pushable",
+								"is_minified": true,
+								"children": {
+									"is_pushable": true,
+									"is_pushable_by_piston": true
+								}
+							},
+							{
+								"key": "minecraft:despawn",
+								"is_minified": true,
+								"children": {
+									"despawn_from_distance": {
+										"min_distance": 32,
+										"max_distance": 40
+									}
+								}
+							},
+							{
+								"key": "minecraft:behavior.swim_idle",
+								"is_minified": true,
+								"children": {
+									"priority": 5,
+									"idle_time": 5,
+									"success_rate": 0.1
+								}
+							},
+							{
+								"key": "minecraft:behavior.random_swim",
+								"is_minified": true,
+								"children": {
+									"priority": 3,
+									"speed_multiplier": 1,
+									"xz_dist": 16,
+									"y_dist": 4,
+									"interval": 0
+								}
+							},
+							{
+								"key": "minecraft:behavior.avoid_mob_type",
+								"is_minified": true,
+								"children": {
+									"priority": 1,
+									"entity_types": [
+										{
+											"filters": {
+												"test": "is_family",
+												"subject": "other",
+												"value": "player"
+											},
+											"max_dist": 6,
+											"walk_speed_multiplier": 1.5,
+											"sprint_speed_multiplier": 2
+										}
+									]
+								}
+							},
+							{
+								"key": "minecraft:behavior.swim_wander",
+								"is_minified": true,
+								"children": {
+									"priority": 4,
+									"interval": 0.1,
+									"look_ahead": 2,
+									"speed_multiplier": 1,
+									"wander_time": 5
+								}
+							},
+							{
+								"key": "minecraft:flocking",
+								"is_minified": true,
+								"children": {
+									"in_water": true,
+									"match_variants": true,
+									"use_center_of_mass": false,
+									"low_flock_limit": 4,
+									"high_flock_limit": 8,
+									"goal_weight": 2,
+									"loner_chance": 0.1,
+									"influence_radius": 3,
+									"breach_influence": 7,
+									"separation_weight": 0.65,
+									"separation_threshold": 0.15,
+									"cohesion_weight": 2.75,
+									"cohesion_threshold": 1.5,
+									"innner_cohesion_threshold": 1.5,
+									"min_height": 1.5,
+									"max_height": 6,
+									"block_distance": 2,
+									"block_weight": 0.85
+								}
+							},
+							{
+								"open": {
+									"minecraft:experience_reward": {
+										"on_death": "query.last_hit_by_player ? Math.Random(1,3) : 0"
+									},
+									"minecraft:type_family": {
+										"family": [
+											"tropicalfish",
+											"fish"
+										]
+									},
+									"minecraft:collision_box": {
+										"width": 0.4,
+										"height": 0.4
+									},
+									"minecraft:health": {
+										"value": 6,
+										"max": 6
+									},
+									"minecraft:hurt_on_condition": {
+										"damage_conditions": [
+											{
+												"filters": {
+													"test": "in_lava",
+													"subject": "self",
+													"operator": "==",
+													"value": true
+												},
+												"cause": "lava",
+												"damage_per_tick": 4
+											}
+										]
+									},
+									"minecraft:loot": {
+										"table": "loot_tables/entities/tropicalfish.json"
+									},
+									"minecraft:scale": {
+										"value": 1.3
+									},
+									"minecraft:breathable": {
+										"total_supply": 15,
+										"suffocate_time": 0,
+										"breathes_air": false,
+										"breathes_water": true
+									},
+									"minecraft:movement": {
+										"value": 0.12
+									},
+									"minecraft:underwater_movement": {
+										"value": 0.12
+									},
+									"minecraft:navigation.generic": {
+										"is_amphibious": false,
+										"can_path_over_water": false,
+										"can_swim": true,
+										"can_walk": false,
+										"can_breach": false,
+										"can_sink": false
+									},
+									"minecraft:movement.sway": {
+										"sway_amplitude": 0
+									},
+									"minecraft:physics": {
+										"has_gravity": false
+									},
+									"minecraft:pushable": {
+										"is_pushable": true,
+										"is_pushable_by_piston": true
+									},
+									"minecraft:despawn": {
+										"despawn_from_distance": {
+											"min_distance": 32,
+											"max_distance": 40
+										}
+									},
+									"minecraft:behavior.swim_idle": {
+										"priority": 5,
+										"idle_time": 5,
+										"success_rate": 0.1
+									},
+									"minecraft:behavior.random_swim": {
+										"priority": 3,
+										"speed_multiplier": 1,
+										"xz_dist": 16,
+										"y_dist": 4,
+										"interval": 0
+									},
+									"minecraft:behavior.avoid_mob_type": {
+										"priority": 1,
+										"entity_types": [
+											{
+												"filters": {
+													"test": "is_family",
+													"subject": "other",
+													"value": "player"
+												},
+												"max_dist": 6,
+												"walk_speed_multiplier": 1.5,
+												"sprint_speed_multiplier": 2
+											}
+										]
+									},
+									"minecraft:behavior.swim_wander": {
+										"priority": 4,
+										"interval": 0.1,
+										"look_ahead": 2,
+										"speed_multiplier": 1,
+										"wander_time": 5
+									},
+									"minecraft:flocking": {
+										"in_water": true,
+										"match_variants": true,
+										"use_center_of_mass": false,
+										"low_flock_limit": 4,
+										"high_flock_limit": 8,
+										"goal_weight": 2,
+										"loner_chance": 0.1,
+										"influence_radius": 3,
+										"breach_influence": 7,
+										"separation_weight": 0.65,
+										"separation_threshold": 0.15,
+										"cohesion_weight": 2.75,
+										"cohesion_threshold": 1.5,
+										"innner_cohesion_threshold": 1.5,
+										"min_height": 1.5,
+										"max_height": 6,
+										"block_distance": 2,
+										"block_weight": 0.85
+									},
+									"minecraft:nameable": {},
+									"minecraft:damage_sensor": {
+										"triggers": [
+											{
+												"on_damage": {
+													"event": "minecraft:tropicalfishm"
+												}
+											}
+										]
+									}
+								},
+								"key": "minecraft:nameable",
+								"is_minified": true,
+								"children": {}
+							},
+							{
+								"key": "minecraft:damage_sensor",
+								"children": [
+									{
+										"open": {
+											"triggers": [
+												{
+													"on_damage": {
+														"event": "minecraft:tropicalfishm"
+													}
+												}
+											]
+										},
+										"key": "triggers",
+										"children": [
+											{
+												"open": [
+													{
+														"on_damage": {
+															"event": "minecraft:tropicalfishm"
+														}
+													}
+												],
+												"children": [
+													{
+														"open": {
+															"on_damage": {
+																"event": "minecraft:tropicalfishm"
+															}
+														},
+														"key": "on_damage",
+														"is_minified": true,
+														"children": {
+															"event": "minecraft:tropicalfishm"
+														}
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"key": "events",
+						"children": [
+							{
+								"key": "minecraft:become_anenonme",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:anenonme"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_black_tang",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:black_tang"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_blue_dory",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:blue_dory"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_butterfly_fish",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:butterfly_fish"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_cichlid",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:cichlid"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_clownfish",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:clownfish"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_cc_betta",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:cc_betta"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_dog_fish",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:dog_fish"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_e_red_snapper",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:e_red_snapper"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_goat_fish",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:goat_fish"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_moorish_idol",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:moorish_idol"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_ornate_butterfly",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:ornate_butterfly"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_parrot_fish",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:parrot_fish"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_queen_angel_fish",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:queen_angel_fish"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_red_cichlid",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:red_cichlid"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_red_lipped_benny",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:red_lipped_benny"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_red_snapper",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:red_snapper"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_threadfin",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:threadfin"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_tomato_clown",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:tomato_clown"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_triggerfish",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:triggerfish"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_yellow_tang",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:yellow_tang"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:become_yellow_tail_parrot",
+								"is_minified": true,
+								"children": {
+									"add": {
+										"component_groups": [
+											"minecraft:yellow_tail_parrot"
+										]
+									}
+								}
+							},
+							{
+								"key": "minecraft:entity_spawned",
+								"is_minified": true,
+								"children": {
+									"sequence": [
+										{
+											"add": {
+												"component_groups": [
+													"adult"
+												]
+											}
+										},
+										{
+											"randomize": [
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_a"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_b"
+														]
+													}
+												}
+											]
+										},
+										{
+											"randomize": [
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_pattern_1"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_pattern_2"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_pattern_3"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_pattern_4"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_pattern_5"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_variant_pattern_6"
+														]
+													}
+												}
+											]
+										},
+										{
+											"randomize": [
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_white"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_orange"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_magenta"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_lightblue"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_yellow"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_lightgreen"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_pink"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_gray"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_silver"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_cyan"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_purple"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_blue"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_brown"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_green"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_base_red"
+														]
+													}
+												}
+											]
+										},
+										{
+											"randomize": [
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_white"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_orange"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_magenta"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_lightblue"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_yellow"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_lightgreen"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_pink"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_gray"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_silver"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_cyan"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_purple"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_blue"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_brown"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_green"
+														]
+													}
+												},
+												{
+													"weight": 1,
+													"add": {
+														"component_groups": [
+															"minecraft:tropicalfish_pattern_red"
+														]
+													}
+												}
+											]
+										}
+									]
+								}
+							},
+							{
+								"key": "minecraft:tropicalfishm",
+								"children": [
+									{
+										"open": {
+											"execute": {
+												"commands": [
+													"/function tropicalfish"
+												]
+											}
+										},
+										"key": "execute",
+										"children": [
+											{
+												"open": {
+													"commands": [
+														"/function tropicalfish"
+													]
+												},
+												"key": "commands",
+												"is_minified": true,
+												"children": [
+													"/function tropicalfish"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
