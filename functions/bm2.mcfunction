@@ -1,4 +1,3 @@
-#bridge-file-version: #3
 execute @e[type=ender_dragon,c=1] ~ ~ ~ say I will destroy you!
 execute @e[type=wither,c=1] ~ ~ ~ say I will destroy you!
  

@@ -1,4 +1,3 @@
-#bridge-file-version: #0
 say no u.
 execute @e[type=ender_dragon,c=1] ~ ~ ~ say oof.
 execute @e[type=wither,c=1] ~ ~ ~ say oof.

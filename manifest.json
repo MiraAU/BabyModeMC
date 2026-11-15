@@ -2,16 +2,16 @@
 	"format_version": 2,
 	"header": {
 		"name": "Baby Mode",
-		"description": "Baby Mode addon made for the Bedrock Edition of Minecraft - inspired by Fundy! \nMade by jesser101",
-		"uuid": "29e33bd7-cfa0-4278-b1d3-01f2ca515e90",
-		"version": [2,0,0],
+		"description": "Baby Mode addon for Minecraft\nForked from https://mcpedl.com/baby-mode-plus-plus/",
+		"uuid": "291995f7-09e7-4a87-9e9d-9179faec05f1",
+		"version": [1,0,0],
 		"min_engine_version": [1,13,0]
 	},
 	"modules": [
 		{
 			"type": "data",
-			"uuid": "90bed038-e945-448a-9347-c7ce5641cba8",
-			"version": [2,0,0]
+			"uuid": "2b4840b7-4173-4a3c-918d-bbbda62f180b",
+			"version": [1,0,0]
 		}
 	]
 }

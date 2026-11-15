@@ -1,4 +1,3 @@
-//bridge-file-version: #0
 {
 	"format_version": "1.16.0",
 	"minecraft:entity": {
@@ -828,14 +827,9 @@
 				"is_pushable": true,
 				"is_pushable_by_piston": true
 			},
-			"minecraft:damage_sensor": {
-				"triggers": [
-					{
-						"on_damage": {
-							"event": "minecraft:mooshroomm"
-						}
-					}
-				]
+			"minecraft:on_death": {
+				"event": "minecraft:mooshroomm",
+				"target": "self"
 			}
 		},
 		"events": {

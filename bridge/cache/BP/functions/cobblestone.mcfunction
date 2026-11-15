@@ -1,8 +1,0 @@
-{
-	"file_path": "C:\\Users\\jesse\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Baby Mode\\functions\\cobblestone.mcfunction",
-	"file_type": "function",
-	"format_version": 0,
-	"file_uuid": "fc579287_c4c9_45ed_b596_e5800fea3694",
-	"file_version": 4,
-	"cache_content": "scoreboard players random @a loot 1 30\nexecute @a ~ ~ ~ execute @s[scores={loot=0..15}] ~ ~ ~ execute @e[type=item,name=\"Cobblestone\",c=1] ~ ~ ~ give @p cobblestone 1\nexecute @a ~ ~ ~ execute @s[scores={loot=6..10}] ~ ~ ~ execute @e[type=item,name=\"Cobblestone\",c=1] ~ ~ ~ give @p coal 1\nexecute @a ~ ~ ~ execute @s[scores={loot=11..15}] ~ ~ ~ execute @e[type=item,name=\"Cobblestone\",c=1] ~ ~ ~ give @p iron_ingot 1\nexecute @a ~ ~ ~ execute @s[scores={loot=16..19}] ~ ~ ~ execute @e[type=item,name=\"Cobblestone\",c=1] ~ ~ ~ give @p gold_ingot 1\nexecute @a ~ ~ ~ execute @s[scores={loot=20..24}] ~ ~ ~ execute @e[type=item,name=\"Cobblestone\",c=1] ~ ~ ~ give @p redstone 1\nexecute @a ~ ~ ~ execute @s[scores={loot=24..26}] ~ ~ ~ execute @e[type=item,name=\"Cobblestone\",c=1] ~ ~ ~ give @p dye 1 4\nexecute @a ~ ~ ~ execute @s[scores={loot=27}] ~ ~ ~ execute @e[type=item,name=\"Cobblestone\",c=1] ~ ~ ~ give @p emerald 1\nexecute @a ~ ~ ~ execute @s[scores={loot=28..29}] ~ ~ ~ execute @e[type=item,name=\"Cobblestone\",c=1] ~ ~ ~ give @p diamond 1\nexecute @a ~ ~ ~ execute @s[scores={loot=30}] ~ ~ ~ execute @e[type=item,name=\"Cobblestone\",c=1] ~ ~ ~ give @p netherite_ingot 1\nexecute @a ~ ~ ~ execute @s[scores={loot=25..30}] ~ ~ ~ execute @e[type=item,name=\"Cobblestone\",c=1] ~ ~ ~ summon xp_orb \nexecute @e[type=item,name=\"Cobblestone\",c=1] ~ ~ ~ kill @e[type=item,name=\"Cobblestone\",c=1]"
-}

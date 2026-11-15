@@ -1,4 +1,3 @@
-#bridge-file-version: #15
 enchant @a efficiency 5
 enchant @a sharpness 5
 enchant @a unbreaking 3
